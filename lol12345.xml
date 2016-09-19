@@ -1,12 +1,12 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="movement_setmotors" id="36" inline="true" x="3" y="27">
+  <block type="movement_setmotors" id="1" inline="true" x="3" y="27">
     <value name="BOTHMOVLEFT">
-      <block type="math_number" id="49">
+      <block type="math_number" id="2">
         <field name="NUM">20</field>
       </block>
     </value>
     <value name="BOTHMOVRIGHT">
-      <block type="math_number" id="50">
+      <block type="math_number" id="3">
         <field name="NUM">20</field>
       </block>
     </value>
